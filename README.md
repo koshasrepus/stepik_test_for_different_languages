@@ -42,3 +42,21 @@ https://docs.pytest.org/en/latest/example/simple.html?highlight=addoption Пер
 http://docs.pytest.org/en/latest/plugins.html Список плагинов PyTest
 https://plugincompat.herokuapp.com/ Полный список доступных плагинов с описаниями
 https://docs.pytest.org/en/latest/usage.html#modifying-python-traceback-printing Настройка вывода PyTest
+
+Если у вас нет большого опыта в написании кода, в статьях по ссылкам вы можете найти дополнительные рекомендации по оформлению кода.
+
+Английский язык:
+
+https://docs.python-guide.org/writing/style/
+
+https://www.python.org/dev/peps/pep-0008/
+
+Русский язык:
+
+https://habr.com/ru/post/266969/
+
+https://habr.com/ru/post/206868/
+
+https://pep8.ru/doc/pep8/
+
+https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html
